@@ -108,4 +108,5 @@ KPI Cards
 
 "KPI cards provide a quick summary of key metrics like total cases and deaths, so users can get insights at a glance."
 
+<img width="1527" height="1117" alt="image" src="https://github.com/user-attachments/assets/56c3f442-6cff-404e-9bde-34c2288624df" />
 
